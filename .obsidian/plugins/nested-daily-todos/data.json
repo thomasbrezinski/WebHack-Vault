@@ -1,0 +1,7 @@
+{
+  "daysLookBack": 7,
+  "groupBySection": true,
+  "removeEmptyTodos": true,
+  "supportedTodoChars": "!xX/- ",
+  "completeTodoChars": "xX-"
+}

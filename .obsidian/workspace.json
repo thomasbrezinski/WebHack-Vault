@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "6b729f3208c3a1d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdfe6d04fce64413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb3564c9c99e5c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plugin Workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59b6dbbe37b56968",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ae5d5e1c2aacef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a54910c00676a6ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5afdb3a1dedced7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#WebHack",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa8bd76d8f985438",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d6e4d8209de2e662",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae344cadbc3d224d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e79e8ae962acd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plugin Workflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13d8a3b9ca5613a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plugin Workflow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f9e76f1ea2f2c91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31d69d391ffd151e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plugin Workflow.md"
+              }
+            }
+          },
+          {
+            "id": "77035f01f0ef4430",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "57f16b537b6bb996",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b31994405d7e7ea3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "graph:Open graph view": false,
+      "periodic-notes:Open today": false,
+      "nested-daily-todos:Nested Daily Todos": false
+    }
+  },
+  "active": "cb3564c9c99e5c23",
+  "lastOpenFiles": [
+    "Nested Daily Todos Plugin.md",
+    "WebHack Plugin Development Presentation.md",
+    "Weekly Notes/2023-W51.md",
+    "Daily Notes/2023-12-21 Thursday.md",
+    "Daily Notes/2023-12-20 Wednesday.md",
+    "scripts/toc.js",
+    "scripts",
+    "toc.js",
+    "Daily Notes/2023-12-19 Tuesday.md",
+    "Plugin Workflow.md",
+    "This presentation.md",
+    "2023-12-20.md",
+    "Excalidraw/ObsidianDemo.excalidraw.md",
+    "Templates/Weekly Note.md",
+    "Plugin Ecosystem.md",
+    "Daily Notes/2023-12-22 Friday.md",
+    "Periodic Notes.md",
+    "Templates/Daily Note.md",
+    "Developer Resources.md",
+    "Obsidian Architecture.md",
+    "Obsidian Overview.md",
+    "Supported Formats.md",
+    "Templates/Monthly Note.md",
+    "Monthly Notes/2023-12 December.md",
+    "Daily Notes/2023-12-17 Sunday.md",
+    "Daily Notes/2023-12-16 Saturday.md",
+    "Templates/Yearly Note.md",
+    "Documents/Screenshot 2023-12-20 at 15.30.16.png",
+    "Yearly Notes/2023.md",
+    "Documents/Screenshot 2023-12-20 at 13.25.55.png",
+    "Documents/Screenshot 2023-12-20 at 13.33.03.png",
+    "Monthly Notes",
+    "Yearly Notes",
+    "Weekly Notes",
+    "Daily Notes",
+    "Templates",
+    "Documents/Pasted image 20231127192829.png",
+    "Documents/Pasted image 20231127192947.png",
+    "Documents/editor-uppercase.gif",
+    "Documents/Pasted image 20231121163202.png",
+    "Documents",
+    "Documents/Pasted image 20231127190013.png",
+    "Documents/Pasted image 20231127185958.png",
+    "Documents/Pasted image 20231127185939.png",
+    "WebHack"
+  ]
+}
